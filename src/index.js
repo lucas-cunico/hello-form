@@ -13,7 +13,7 @@ const store = createStore(
     reducer,
     applyMiddleware(thunk)
 );
-// test 2 2 2 22 00 dd
+// test 2 2 2 22 00 dd assaasas
 ReactDOM.render(
     <Provider store={store}>
         <BrowserRouter>

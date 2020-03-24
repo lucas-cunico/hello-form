@@ -11,7 +11,7 @@ class Home extends Component {
                 <Link to="/form"  className="btn btn-lg btn-secondary">Cadastro</Link>
                 </span>
                 <ReactTooltip id="happyFace" type="error">
-                  <span>Show happy face</span>
+                  <span>Show happy face eeee</span>
                 </ReactTooltip>
             </main>
         );

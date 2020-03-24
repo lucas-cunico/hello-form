@@ -8,7 +8,7 @@ class Home extends Component {
         return (
             <main className="height-fix d-flex justify-content-center align-items-center">
                 <span data-tip data-for="happyFace">
-                <Link to="/form"  className="btn btn-lg btn-secondary">Cadastro</Link>
+                <Link to="/form"  className="btn btn-lg btn-secondary">Cadastroo</Link>
                 </span>
                 <ReactTooltip id="happyFace" type="error">
                   <span>Show happy face eeee</span>
